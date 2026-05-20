@@ -1,0 +1,22 @@
+Table 3:,,Time by Component by Geographical Area,,
+,,,,
+,,         Suburban Areas,,
+,,Inside the,Outside the,
+Row ID,Total Time in Area in Minutes:,Beltway,Beltway,Rural
+,,,,
+,,,,
+A,Stopped Delay,43.15,162.91,4.6
+B,Estimated Running Time ,140.935,742.767,106.55
+C, - Approach Delay,10.04,46.006,19.401
+D, - Flow Delay,9.704,86.788,7.125
+E,Total (A + B),184.085,905.677,111.14999999999999
+,,,,
+,Percent of Time in Area:,,,
+,,,,
+F,Stopped,0.2344025857620121,0.17987649018358642,0.0413855150697256
+G,Running,0.7655974142379879,0.8201235098164136,0.9586144849302745
+H, - Approach Delay (of Running),0.07123851420867776,0.06193866986551637,0.18208352885969029
+I, - Flow Delay (of Running),0.06885443644233158,0.1168441785916714,0.06687001407789771
+,,,,
+J,due to Intersection ,0.2889426080343319,0.23067384950705383,0.21593342330184434
+K,due to Link ,0.7110573919656681,0.7693261504929462,0.7840665766981556

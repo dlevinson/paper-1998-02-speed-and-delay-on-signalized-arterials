@@ -1,0 +1,48 @@
+variable,non_exact_cells,within_expected_rounding_cells,missing_mismatch_cells,max_abs_diff,verdict,examples
+LINKID,934,934,0,50.0,equivalent_exact_or_display_rounding,row 1: excel=13761900 systat=13761943 | row 2: excel=19431400 systat=19431376 | row 3: excel=13262400 systat=13262423
+LENGTH,152,152,0,5.551115123125783e-17,equivalent_exact_or_display_rounding,row 16: excel=0.35 systat=0.3499999999999999 | row 21: excel=0.34 systat=0.3400000000000001 | row 39: excel=0.16 systat=0.15999999999999998
+ROUTETYP,0,0,0,0.0,equivalent_exact_or_display_rounding,
+AREACODE,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LANES,0,0,0,0.0,equivalent_exact_or_display_rounding,
+VDF,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LINKFLOW,0,0,0,0.0,equivalent_exact_or_display_rounding,
+SPEED,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LANEFLOW,0,0,0,0.0,equivalent_exact_or_display_rounding,
+DELAY,0,0,0,0.0,equivalent_exact_or_display_rounding,
+SPEEDFF,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LLENGTH,937,937,0,0.0004994322952769359,equivalent_exact_or_display_rounding,row 1: excel=-0.4 systat=-0.40047756659712525 | row 2: excel=-0.4 systat=-0.40047756659712525 | row 3: excel=-1.347 systat=-1.3470736479666092
+LSPEED,939,938,1,0.0004942159291498882,review_difference,row 1: excel=3.664 systat=3.6635616461296463 | row 2: excel=3.584 systat=3.58351893845611 | row 3: excel=3.638 systat=3.6375861597263857
+LSPEEDFF,941,941,0,0.0004952420493591347,equivalent_exact_or_display_rounding,row 1: excel=3.829 systat=3.828641396489095 | row 2: excel=3.807 systat=3.8066624897703196 | row 3: excel=3.807 systat=3.8066624897703196
+LLANES,524,524,0,0.0003877113318901948,equivalent_exact_or_display_rounding,row 1: excel=0.693 systat=0.6931471805599453 | row 2: excel=0.693 systat=0.6931471805599453 | row 221: excel=0.693 systat=0.6931471805599453
+LLANEFLO,941,941,0,0.0004996060319761852,equivalent_exact_or_display_rounding,row 1: excel=6.224 systat=6.223627302842352 | row 2: excel=5.423 systat=5.422568328885894 | row 3: excel=5.544 systat=5.544317700005174
+LDELAY,939,618,321,0.0004994322952769359,review_difference,row 1: excel=. systat= | row 2: excel=. systat= | row 3: excel=-2.04 systat=-2.0402208285265546
+VCR,913,913,0,0.000500000000000056,equivalent_exact_or_display_rounding,row 1: excel=0.336 systat=0.33635333333333334 | row 2: excel=0.151 systat=0.15097333333333335 | row 3: excel=0.171 systat=0.17052
+VCR2,941,941,0,0.0004996152888888661,equivalent_exact_or_display_rounding,row 1: excel=0.113 systat=0.11313356484444445 | row 2: excel=0.023 systat=0.022792947377777782 | row 3: excel=0.029 systat=0.029077070400000002
+VCR3,941,941,0,0.0004993927753576318,equivalent_exact_or_display_rounding,row 1: excel=0.038 systat=0.0380528516473117 | row 2: excel=0.003 systat=0.0034411272421143715 | row 3: excel=0.005 systat=0.004958222044608
+VCR4,940,940,0,0.0004992554724673887,equivalent_exact_or_display_rounding,row 1: excel=0.013 systat=0.012799203494412116 | row 2: excel=0.001 systat=0.0005195184501661472 | row 3: excel=0.001 systat=0.0008454760230465563
+INBELT,0,0,0,0.0,equivalent_exact_or_display_rounding,
+RURAL,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LOSTSPD,0,0,0,0.0,equivalent_exact_or_display_rounding,
+VCR5,937,937,0,0.0004997389482286896,equivalent_exact_or_display_rounding,row 1: excel=0.004 systat=0.004305054759357163 | row 2: excel=0 systat=7.843343214975046e-05 | row 3: excel=0 systat=0.0001441705714498988
+VCR6,925,925,0,0.0004995006668647263,equivalent_exact_or_display_rounding,row 1: excel=0.001 systat=0.001448019518492313 | row 2: excel=0 systat=1.1841356696421661e-05 | row 3: excel=0 systat=2.4583965843636743e-05
+VCR7,913,913,0,0.0004993248440549932,equivalent_exact_or_display_rounding,row 1: excel=0 systat=0.0004870461917766178 | row 2: excel=0 systat=1.7877290916477663e-06 | row 3: excel=0 systat=4.192057855656938e-06
+LANES1,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LANES2,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LANES3,0,0,0,0.0,equivalent_exact_or_display_rounding,
+LANES4,0,0,0,0.0,equivalent_exact_or_display_rounding,
+TIMECONG,739,738,1,0.000500000000000167,review_difference,row 1: excel=1.031 systat=1.0307692307692309 | row 2: excel=1.117 systat=1.1166666666666667 | row 3: excel=0.411 systat=0.41052631578947374
+TIMEFF,787,786,1,0.000500000000000389,review_difference,row 1: excel=0.874 systat=0.8739130434782609 | row 2: excel=0.893 systat=0.8933333333333334 | row 3: excel=0.347 systat=0.3466666666666667
+LINKDEL,832,831,1,0.000500000000000278,review_difference,row 1: excel=0.157 systat=0.15685618729096995 | row 2: excel=0.223 systat=0.22333333333333327 | row 3: excel=0.064 systat=0.06385964912280706
+LINKDELRAT,756,755,1,0.0005000000000006111,review_difference,row 1: excel=0.179 systat=0.17948717948717952 | row 3: excel=0.184 systat=0.1842105263157896 | row 4: excel=0.2 systat=0.19999999999999996
+ESTSPD,938,938,0,0.0005000000000094929,equivalent_exact_or_display_rounding,row 1: excel=33.522 systat=33.52151 | row 2: excel=34.397 systat=34.39686 | row 3: excel=32.73 systat=32.730419999999995
+SQDERR,941,941,0,0.0004982143999825439,equivalent_exact_or_display_rounding,row 1: excel=30.014 systat=30.01385268010001 | row 2: excel=2.57 systat=2.5700578596000105 | row 3: excel=27.768 systat=27.76847337640005
+SQRTLEN,864,864,0,0.0004997998398398318,equivalent_exact_or_display_rounding,row 1: excel=0.819 systat=0.8185352771872451 | row 2: excel=0.819 systat=0.8185352771872451 | row 3: excel=0.51 systat=0.5099019513592785
+DELPMIL,535,535,0,0.0005000000000000004,equivalent_exact_or_display_rounding,row 4: excel=0.724 systat=0.7241379310344828 | row 5: excel=0.611 systat=0.6106194690265487 | row 9: excel=3.273 systat=3.2727272727272725
+RT4,0,0,0,0.0,equivalent_exact_or_display_rounding,
+RT3,0,0,0,0.0,equivalent_exact_or_display_rounding,
+RT2,0,0,0,0.0,equivalent_exact_or_display_rounding,
+ESTTIME,941,941,0,0.0004998919850753847,equivalent_exact_or_display_rounding,row 1: excel=1.199 systat=1.199229986954645 | row 2: excel=1.169 systat=1.168711330045824 | row 3: excel=0.477 systat=0.476620831630025
+ACTTIME,739,738,1,0.000500000000000167,review_difference,row 1: excel=1.031 systat=1.0307692307692309 | row 2: excel=1.117 systat=1.1166666666666667 | row 3: excel=0.411 systat=0.41052631578947374
+ACTTIMFF,787,787,0,0.000500000000000389,equivalent_exact_or_display_rounding,row 1: excel=0.874 systat=0.8739130434782609 | row 2: excel=0.893 systat=0.8933333333333334 | row 3: excel=0.347 systat=0.3466666666666667
+FLOWDEL,941,941,0,0.0004998581030492832,equivalent_exact_or_display_rounding,row 1: excel=0.084 systat=0.08424356147059942 | row 2: excel=0.037 systat=0.037390577682176795 | row 3: excel=0.018 systat=0.01799202521819665
+APPRDEL,620,620,0,0.0004965394277518381,equivalent_exact_or_display_rounding,row 3: excel=0.008 systat=0.008077505978339283 | row 4: excel=0.022 systat=0.0215960222479189 | row 5: excel=0.238 systat=0.23751841000412854

@@ -1,0 +1,9 @@
+source_workbook,sheet,rows,cols,nonempty_rows,csv
+montgomery_county_1987_links87_raw_data_excel.xls,Table 3,23,7,17,data/link_observations/csv_exports/links87_excel/Table_3.csv
+montgomery_county_1987_links87_raw_data_excel.xls,links87.tab,944,67,944,data/link_observations/csv_exports/links87_excel/links87_tab.csv
+speed_delay_publication_tables_regression_figures.xls,Table3,22,5,16,data/publication_tables/csv_exports/speed_xls/Table3.csv
+speed_delay_publication_tables_regression_figures.xls,Table2,56,13,42,data/publication_tables/csv_exports/speed_xls/Table2.csv
+speed_delay_publication_tables_regression_figures.xls,Table1,36,10,24,data/publication_tables/csv_exports/speed_xls/Table1.csv
+speed_delay_publication_tables_regression_figures.xls,Regress-F2,18,9,15,data/publication_tables/csv_exports/speed_xls/Regress-F2.csv
+speed_delay_publication_tables_regression_figures.xls,Figure 2,949,4,949,data/publication_tables/csv_exports/speed_xls/Figure_2.csv
+montgomery_county_1987_links87_systat_binary.dat,Systat extracted rectangular body,941,47,941,data/link_observations/csv_exports/links87_systat_extracted.csv

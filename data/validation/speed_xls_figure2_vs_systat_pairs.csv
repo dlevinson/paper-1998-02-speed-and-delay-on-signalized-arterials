@@ -1,0 +1,4 @@
+metric,value
+systat_rows,941
+figure_sheet_rows,949
+note,Figure sheet retained as CSV; previous audit found 940 of 941 rounded SPEED/ESTSPD pairs in common.
